@@ -33,7 +33,7 @@ function Hero() {
 <button className="btn h">GET A QUOTE NOW</button>
 </div>
 <div className="hero-img">
-<img src="./src/images/s1.jpg" alt="s1" />
+<img src="./src/images/cur-1.jpg" alt="s1" />
 </div>
 
 </div>
@@ -65,7 +65,7 @@ function Hero() {
 <button className="btn h">GET A QUOTE NOW</button>
 </div>
 <div className="hero-img">
-<img src="./src/images/s2.jpg" alt="s2" />
+<img src="./src/images/cur-2.jpg" alt="s2" />
 </div>
 
 </div>
@@ -97,7 +97,7 @@ function Hero() {
 <button className="btn h">GET A QUOTE NOW</button>
 </div>
 <div className="hero-img">
-<img src="./src/images/s3.jpg" alt="s3" />
+<img src="./src/images/cur-3.jpg" alt="s3" />
 </div>
 
 </div>
